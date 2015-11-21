@@ -1,0 +1,22 @@
+{
+  "name": "artorius",
+  "version": "0.0.0",
+  "description": "The blog engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "axross <kou@axross.org> (http://axross.me/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axross/artorius.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "bugs": {
+    "url": "https://github.com/axross/artorius/issues"
+  },
+  "homepage": "https://github.com/axross/artorius#readme"
+}
